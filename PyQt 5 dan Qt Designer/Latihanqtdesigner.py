@@ -53,8 +53,8 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.label.setText(_translate("MainWindow", "NIM"))
         self.label_2.setText(_translate("MainWindow", "NAMA"))
-        self.lineEdit.setText(_translate("MainWindow", "2210010143"))
-        self.lineEdit_2.setText(_translate("MainWindow", "Hambali Abdan"))
+        self.lineEdit.setText(_translate("MainWindow", "2210010151"))
+        self.lineEdit_2.setText(_translate("MainWindow", "Nopal Aswin"))
         self.pushButton.setText(_translate("MainWindow", "PushButton"))
         self.pushButton_2.setText(_translate("MainWindow", "PushButton"))
 
